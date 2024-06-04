@@ -1,6 +1,6 @@
 # VGPnet
 
-Topic: Multi-Object Vector Graph Vertex Classification Task Based on Graph Neural Networks
+Topic: Multi-Object Vector Graph Vertex Classify Based on Graph Neural Networks
 
 
 Open source after accepted.
